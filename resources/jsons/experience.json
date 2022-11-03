@@ -1,0 +1,19 @@
+{
+	"experience":
+	[
+		{
+			"date": 2019,
+			"type": "Video producer",
+			"title": "Dario Nonis",
+			"description": "I create videos for a science YouTube channel on the Internet called Dario Nonis. It's a 5 minutes animated video format where I talk about many topics such as astrophysics, mathematics or computer science.",
+			"tags":
+			[
+				{ "name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html" },
+				{ "name": "Illustrator", "url": "https://www.adobe.com/products/illustrator.html" }
+			],
+			"link": "https://www.youtube.com/channel/UCZil17ffZ74l98CYVAvQTkQ",
+			"video": "resources/videos/experience/Dario_Nonis.mp4",
+			"image": "resources/images/experience/Dario_Nonis.png"
+		}
+	]
+}
