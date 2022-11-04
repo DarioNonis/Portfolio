@@ -20,7 +20,7 @@
 				"none"
 			],
 			"video": "none",
-			"image": "resources/images/projects/5.png",
+			"image": "resources/images/projects/Hexawar_io.png",
 			"logo": "resources/shapes/projects/Hexawar_io.svg",
 			"categories": ["Games", "Web"]
 		},
@@ -28,7 +28,7 @@
 			"date": 2022,
 			"type": "Discord",
 			"title": "Cameo™",
-			"description": "It's a Discord bot allowing you to do many things like play music, games, do giveaways, moderation, have a ticket system, but there are also innovative features like an AI to talk with Cameo, a mail system or specialized orders. Do not hesitate to invite him on your Discord server to discover all the other incredible features of this bot.",
+			"description": "It's a Discord bot allowing you to do many things like play music, games, do giveaways, moderation, have a ticket system, but there are also innovative features like an AI to talk with Cameo™, a mail system or specialized orders.",
 			"tags":
 			[
 				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
@@ -40,8 +40,8 @@
 				"none"
 			],
 			"video": "none",
-			"image": "resources/images/projects/1.png",
-			"logo": "resources/shapes/projects/Cameo.svg",
+			"image": "resources/images/projects/Cameo.png",
+			"logo": "resources/shapes/projects/Discord.svg",
 			"categories": ["Discord"]
 		},
 		{
@@ -150,7 +150,7 @@
 			[
 				"https://github.com/DarioNonis/Maze_solver",
 				"https://github.com/DarioNonis/Maze_solver",
-				"https://dario-portfolio.000webhostapp.com/Maze_solver/"
+				"https://dario-nonis.000webhostapp.com/Maze_solver/"
 			],
 			"video": "resources/videos/projects/Maze_solver.mp4",
 			"image": "resources/images/projects/Maze_solver.png",
@@ -161,7 +161,7 @@
 			"date": 2022,
 			"type": "Web",
 			"title": "Tavern",
-			"description": "Tavern is a self-hosted monitoring tool, which includes many features like uptime monitoring for HTTP(s) / TCP / HTTP(s) Keyword / Ping / DNS Record / Push / Steam Game Server. It is also possible to receive notifications via Telegram, Discord, Gotify, Slack, Pushover, Email (SMTP), all in many languages.",
+			"description": "Tavern is a self-hosted monitoring tool, which includes many features like uptime monitoring. It is also possible to receive notifications, all in many languages.",
 			"tags":
 			[
 				{ "name": "JavaScript", "url": "https://www.java.com/en/" },
@@ -254,12 +254,12 @@
 			],
 			"links":
 			[
-				"http://dario-portfolio.000webhostapp.com/portfolio/",
+				"https://dario-nonis.000webhostapp.com/portfolio/",
 				"https://github.com/DarioNonis/Portfolio",
-				"http://dario-portfolio.000webhostapp.com/portfolio/"
+				"https://dario-nonis.000webhostapp.com/portfolio/"
 			],
-			"video": "none",
-			"image": "resources/images/projects/5.png",
+			"video": "resources/videos/projects/Portfolio.mp4",
+			"image": "resources/images/projects/Portfolio.png",
 			"logo": "resources/shapes/projects/Portfolio.svg",
 			"categories": ["Web"]
 		},
@@ -341,8 +341,8 @@
 				"https://github.com/DarioNonis/Magic_royale",
 				"https://github.com/DarioNonis/Magic_royale/releases"
 			],
-			"video": "none",
-			"image": "resources/images/projects/1.png",
+			"video": "resources/videos/projects/Magic_royale.mp4",
+			"image": "resources/images/projects/Magic_royale.png",
 			"logo": "resources/shapes/projects/Magic_royale.svg",
 			"categories": ["Games"]
 		},
