@@ -28,7 +28,7 @@
 			"date": 2022,
 			"type": "Discord",
 			"title": "Cameo™",
-			"description": "It's a Discord bot allowing you to do many things like play music, games, do giveaways, moderation, have a ticket system, but there are also innovative features like an AI to talk with Cameo™, a mail system or specialized orders.",
+			"description": "It's a Discord bot that allows you to listen to music, play games, make giveaways, moderate your servers, have a ticket system, welcome your members, but there are also innovative features such as an AI to talk with Cameo™, a ModMail system and even custom commands.",
 			"tags":
 			[
 				{ "name": "JavaScript", "url": "https://en.wikipedia.org/wiki/JavaScript" }
